@@ -36,11 +36,11 @@ VisulaizedSorting is a Java-based interactive tool that visualizes various sorti
 
 ## Array Outputs
 ### Array before sorting
- ![Screenshot 2023-08-05 232945](https://github.com/sushantkumar77/VisualizedSortingUsingJava/blob/main/259801384-5c303a3c-2ecc-49f5-aa3e-0ae59ce1b8e8.png)
+ ![Screenshot 2023-08-05 232945](https://github.com/sushantkumar77/AlgoViz-main/blob/main/AlgoViz-main/259801384-5c303a3c-2ecc-49f5-aa3e-0ae59ce1b8e8.png)
 
 ### Array while sorting
- ![Screenshot 2023-08-05 233116](https://github.com/sushantkumar77/VisualizedSortingUsingJava/blob/main/259802349-b8af522d-31ae-4bdd-8718-4ff40aa609af.png)
+ ![Screenshot 2023-08-05 233116](https://github.com/sushantkumar77/AlgoViz-main/blob/main/AlgoViz-main/259802349-b8af522d-31ae-4bdd-8718-4ff40aa609af.png)
 
 ### Sorted Array
- ![Screenshot 2023-08-05 233157](https://github.com/sushantkumar77/VisualizedSortingUsingJava/blob/main/259802555-9dd1c72c-de88-46ac-aa85-4665a3c4e3e1.png)
+ ![Screenshot 2023-08-05 233157](https://github.com/sushantkumar77/AlgoViz-main/blob/main/AlgoViz-main/259802555-9dd1c72c-de88-46ac-aa85-4665a3c4e3e1.png)
 
